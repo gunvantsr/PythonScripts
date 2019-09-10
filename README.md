@@ -1,8 +1,8 @@
 # PythonScripts
 Python scripts to automate some daily tasks!
 
-## IMDB Rating Checker:
+### IMDB Rating Checker:
 To check rating for any given movie
 
-## Poster Downloader:
+### Poster Downloader:
 Download HD Poster of any movie
